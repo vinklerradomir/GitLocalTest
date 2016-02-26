@@ -10,6 +10,7 @@ namespace LocalGitProject
     {
         static void Main(string[] args)
         {
+            string test = "test";
         }
     }
 }
